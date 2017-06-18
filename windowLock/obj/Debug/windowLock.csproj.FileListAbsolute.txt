@@ -1,0 +1,10 @@
+F:\vsdemo\windowLock\windowLock\bin\Debug\windowLock.exe.config
+F:\vsdemo\windowLock\windowLock\bin\Debug\windowLock.exe
+F:\vsdemo\windowLock\windowLock\bin\Debug\windowLock.pdb
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.csprojResolveAssemblyReference.cache
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.Form1.resources
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.Properties.Resources.resources
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.csproj.GenerateResource.Cache
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.exe
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.pdb
+F:\vsdemo\windowLock\windowLock\obj\Debug\windowLock.Logic.resources
